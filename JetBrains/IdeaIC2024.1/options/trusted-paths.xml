@@ -1,0 +1,26 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/dev/BTA-Facility" value="true" />
+        <entry key="$USER_HOME$/dev/Facility" value="true" />
+        <entry key="$USER_HOME$/dev/FacilityBeta" value="true" />
+        <entry key="$USER_HOME$/dev/FacilityFabric" value="true" />
+        <entry key="$USER_HOME$/dev/JavaTest" value="true" />
+        <entry key="$USER_HOME$/dev/Paper" value="true" />
+        <entry key="$USER_HOME$/dev/Paper/Paper-Server" value="true" />
+        <entry key="$USER_HOME$/dev/Paper/test-plugin" value="true" />
+        <entry key="$USER_HOME$/dev/ServerFabric/FacilityFabric" value="true" />
+        <entry key="$USER_HOME$/dev/TheFacility" value="true" />
+        <entry key="$USER_HOME$/dev/study/jlox" value="true" />
+        <entry key="$USER_HOME$/dev/study/untitled" value="true" />
+        <entry key="$USER_HOME$/temp/Client" value="true" />
+        <entry key="$USER_HOME$/temp/FabricClient" value="true" />
+        <entry key="$USER_HOME$/temp/FabricTest" value="true" />
+        <entry key="$USER_HOME$/temp/Facilityisium" value="true" />
+        <entry key="$USER_HOME$/temp/ForgeTest" value="true" />
+        <entry key="$USER_HOME$/temp/MinestomTest" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

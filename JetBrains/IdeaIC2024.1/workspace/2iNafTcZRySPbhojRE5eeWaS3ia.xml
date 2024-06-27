@@ -1,0 +1,257 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Client" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="oncizh8752as">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/client.mixins.json">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/client/Client.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/client/client/ClientClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1719333618532
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1719333602010
+    },
+    "Mixin Configuration": {
+      "usageCount": 1,
+      "lastUsed": 1719333617742
+    },
+    "Gradle": {
+      "usageCount": 2,
+      "lastUsed": 1719333602524
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1719333600006
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="2" lastUsage="1719333602524" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1719333618532" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1719333617742" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1719333600006" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1719333602010" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java/dev/etery/facility/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/Client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java/dev/etery/facility/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/Client/src/main/java/dev/etery/facility/client/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33015972" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Find Mixins" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.25030714" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.33015972" right="0.25030714" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2363" y="101" width="1030" height="854" key="#Project_Structure" timestamp="1719333627409">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2363" y="101" width="1030" height="854" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333627409" />
+    <state x="2480" y="189" width="800" height="711" key="new project wizard" timestamp="1719333642002">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="189" width="800" height="711" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333642002" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/client.mixins.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/client/client/ClientClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

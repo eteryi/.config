@@ -1,0 +1,373 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="FabricTest" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2t3kh15jxsotu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="594">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/client/FabricTestClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="5874">
+              <caret line="411" selection-start-line="411" selection-end-line="411" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/util/math/RotationAxis.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="770">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/util/math/MatrixStack.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/FabricTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/BufferBuilder.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="8052">
+              <caret line="402" selection-start-line="402" selection-end-line="402" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/Tessellator.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="770">
+              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 9,
+      "lastUsed": 1716140146864
+    },
+    "JSON": {
+      "usageCount": 3,
+      "lastUsed": 1716140144787
+    },
+    "CLASS": {
+      "usageCount": 16,
+      "lastUsed": 1716140147655
+    },
+    "Mixin Configuration": {
+      "usageCount": 2,
+      "lastUsed": 1716133009837
+    },
+    "Shell Script": {
+      "usageCount": 2,
+      "lastUsed": 1716140145860
+    },
+    "Properties": {
+      "usageCount": 2,
+      "lastUsed": 1716140145896
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/FabricTest.java" />
+      <option value="$PROJECT_DIR$/gradle.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/client/FabricTestClient.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="9" lastUsage="1716140146864" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="5" lastUsage="1716140144787" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1716140145896" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="2" lastUsage="1716140145860" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java/dev/etery/fabrictest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java/dev/etery/fabrictest}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricTest/src/main/java/dev/etery/fabrictest/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Minecraft Client" />
+      <element setting="Gradle.FabricTest build" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29084766" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Find Mixins" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.49104685" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.3723668" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.49104685" left="0.29084766" right="0.3723668" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="201" width="830" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1716082170967">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="201" width="830" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716082170967" />
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1716079654938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716079654938" />
+    <state x="2663" y="298" width="430" height="493" key="FileChooserDialogImpl" timestamp="1716140178963">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="430" height="493" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140178963" />
+    <state width="1546" height="314" key="GridCell.Tab.0.bottom" timestamp="1716136709973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716134034512" />
+    <state width="1546" height="314" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716136709973" />
+    <state width="1546" height="314" key="GridCell.Tab.0.center" timestamp="1716136709973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716134034512" />
+    <state width="1546" height="314" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716136709973" />
+    <state width="1546" height="314" key="GridCell.Tab.0.left" timestamp="1716136709973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716134034512" />
+    <state width="1546" height="314" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716136709973" />
+    <state width="1546" height="314" key="GridCell.Tab.0.right" timestamp="1716136709973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716134034512" />
+    <state width="1546" height="314" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716136709973" />
+    <state x="3271" y="760" width="408" height="139" key="ProcessPopupWindow" timestamp="1716080769450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3271" y="760" width="408" height="139" key="ProcessPopupWindow/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716080769450" />
+    <state x="623" y="302" width="680" height="713" key="search.everywhere.popup" timestamp="1716133496265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="302" width="680" height="713" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716133496265" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fabrictest.mixins.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/VertexFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/VertexConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5874">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/util/math/RotationAxis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/util/math/MatrixStack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/FabricTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/BufferBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8052">
+          <caret line="402" selection-start-line="402" selection-end-line="402" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-1c34140ce5/1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2/minecraft-merged-1c34140ce5-1.20.6-net.fabricmc.yarn.1_20_6.1.20.6+build.1-v2.jar!/net/minecraft/client/render/Tessellator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/fabrictest/client/FabricTestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

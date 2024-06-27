@@ -1,0 +1,539 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="jlox" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2t3kh15jxsotu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/Expr.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1075#1076#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/Parser.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="357">
+              <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/lexer/Lexer.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
+                <element signature="e#1527#1528#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#1619#1620#0" expanded="true" />
+                <element signature="e#1655#1656#0" expanded="true" />
+                <element signature="e#2071#2072#0" expanded="true" />
+                <element signature="e#2101#2102#0" expanded="true" />
+                <element signature="e#2674#2675#0" expanded="true" />
+                <element signature="e#2717#2718#0" expanded="true" />
+                <element signature="e#2763#2764#0" expanded="true" />
+                <element signature="e#2810#2811#0" expanded="true" />
+                <element signature="e#5380#5381#0" expanded="true" />
+                <element signature="e#5463#5464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/token/TokenType.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/tools/ASTFactory.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="990">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/tools/Experiment.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/ASTPrinter.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="528">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/token/Token.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="74" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 106,
+      "lastUsed": 1716743795371
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1715966521550
+    },
+    "GitIgnore file": {
+      "usageCount": 9,
+      "lastUsed": 1716743793811
+    },
+    "DIFF": {
+      "usageCount": 2,
+      "lastUsed": 1716160867142
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Scanner.java" />
+      <option value="$PROJECT_DIR$/src/TokenType.java" />
+      <option value="$PROJECT_DIR$/src/Token.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/Lexer.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/Main.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/utils/ASTFactory.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/parser/TestClass.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/tools/ast_tree.txt" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/parser/ASTPrinter.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/tools/Experiment.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/tools/ASTFactory.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/lexer/Lexer.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/Lox.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/parser/Expr.java" />
+      <option value="$PROJECT_DIR$/src/dev/etery/lox/parser/Parser.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="9" lastUsage="1716743793811" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="106" lastUsage="1716743795371" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1715966521550" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/lox}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/lox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/lox/parser}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/lox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/lox/token}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jlox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/study/jlox/src/dev/etery/tools}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Generate AST" />
+      <element setting="Application.Lox REPL" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.67348206" />
+      <window_info id="Commit" order="1" weight="0.3350737" />
+      <window_info id="Pull Requests" order="2" weight="0.14188352" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3304636" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info active="true" anchor="bottom" id="Messages" order="6" visible="true" weight="0.3304636" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3304636" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.3304636" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3304636" left="0.67348206" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Pull Requests</value>
+      <value>Debug</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2064" y="201" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1715989603813">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2064" y="201" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715989603813" />
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1715970995790">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715970995790" />
+    <state x="2199" y="325" width="531" height="442" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1715966941887">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2199" y="325" width="531" height="442" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715966941887" />
+    <state x="2663" y="300" width="430" height="493" key="FileChooserDialogImpl" timestamp="1716078690744">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="300" width="430" height="493" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716078690744" />
+    <state width="1546" height="207" key="GridCell.Tab.0.bottom" timestamp="1715994072476">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715994072476" />
+    <state width="1546" height="207" key="GridCell.Tab.0.center" timestamp="1715994072476">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715994072476" />
+    <state width="1546" height="207" key="GridCell.Tab.0.left" timestamp="1715994072476">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715994072476" />
+    <state width="1546" height="207" key="GridCell.Tab.0.right" timestamp="1715994072476">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715994072476" />
+    <state width="1546" height="207" key="GridCell.Tab.1.bottom" timestamp="1715971715024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715971715024" />
+    <state width="1546" height="207" key="GridCell.Tab.1.center" timestamp="1715971715024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715971715024" />
+    <state width="1546" height="207" key="GridCell.Tab.1.left" timestamp="1715971715024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715971715024" />
+    <state width="1546" height="207" key="GridCell.Tab.1.right" timestamp="1715971715024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="207" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715971715024" />
+    <state x="2475" y="259" width="806" height="537" key="Vcs.Push.Dialog.v2" timestamp="1715971705646">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="259" width="806" height="537" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715971705646" />
+    <state x="2398" y="217" width="954" height="700" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1715966958104">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2398" y="217" width="954" height="700" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715966958104" />
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard" timestamp="1716744088508">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716744088508" />
+    <state x="621" y="232" key="run.anything.popup" timestamp="1715965609530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="232" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1715965609530" />
+    <state x="2132" y="302" width="680" height="713" key="search.everywhere.popup" timestamp="1715969889464">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2132" y="302" width="680" height="713" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1715969889464" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161414">
+          <caret line="10116" column="26" selection-start-line="10116" selection-start-column="26" selection-end-line="10116" selection-end-column="26" />
+          <folding>
+            <element signature="e#396184#396185#0" expanded="true" />
+            <element signature="e#396223#396224#0" expanded="true" />
+            <element signature="e#397507#397508#0" expanded="true" />
+            <element signature="e#397576#397577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/TestClass.java" />
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="3777" column="18" selection-start-line="3777" selection-start-column="18" selection-end-line="3777" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/sun/nio/fs/UnixException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/nio/file/NoSuchFileException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/tools/ast_tree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.base/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/Lox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1613#1614#0" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/Expr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/lexer/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1527#1528#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#2071#2072#0" expanded="true" />
+            <element signature="e#2101#2102#0" expanded="true" />
+            <element signature="e#2674#2675#0" expanded="true" />
+            <element signature="e#2717#2718#0" expanded="true" />
+            <element signature="e#2763#2764#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#5380#5381#0" expanded="true" />
+            <element signature="e#5463#5464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/token/TokenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/tools/ASTFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/tools/Experiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/ASTPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/token/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="74" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/etery/lox/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

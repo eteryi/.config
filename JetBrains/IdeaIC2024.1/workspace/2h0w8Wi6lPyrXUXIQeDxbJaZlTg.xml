@@ -1,0 +1,974 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Facility" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1ciep2yexwet0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/NMSV1_20_6.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="95">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1246#1247#0" expanded="true" />
+                <element signature="e#1295#1296#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/papermc/paper/paper-api/1.20.6-R0.1-SNAPSHOT/paper-api-1.20.6-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Player.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMS/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NMS.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NPC.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/SkinTextures.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/SkinTexturesV1_20_6.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 622,
+      "lastUsed": 1717531586533
+    },
+    "XML": {
+      "usageCount": 24,
+      "lastUsed": 1717531452146
+    },
+    "GitIgnore file": {
+      "usageCount": 7,
+      "lastUsed": 1717530922101
+    },
+    "CLASS": {
+      "usageCount": 113,
+      "lastUsed": 1717531593268
+    },
+    "YAML": {
+      "usageCount": 25,
+      "lastUsed": 1717531070223
+    },
+    "DIFF": {
+      "usageCount": 14,
+      "lastUsed": 1717531220649
+    },
+    "IDEA_MODULE": {
+      "usageCount": 8,
+      "lastUsed": 1717531288509
+    },
+    "UNKNOWN": {
+      "usageCount": 2,
+      "lastUsed": 1717492920968
+    },
+    "Kotlin": {
+      "usageCount": 19,
+      "lastUsed": 1717531506740
+    },
+    "Shell Script": {
+      "usageCount": 3,
+      "lastUsed": 1717530906856
+    },
+    "textmate": {
+      "usageCount": 2,
+      "lastUsed": 1717530897328
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/team/FacilityTeam.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/team/FacilityTeamFactory.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/team/FacilityTeamImpl.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/TeamCommand.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/team/FacilityTeamBuilder.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/player/FacilityPlayerImpl.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/config/FacilityTeamData.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/PlayerDamageCallback.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/EventManager.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/PlayerLoginStateEvent.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/StateEventFactory.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/AbstractGameState.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/player/PlayerLoginStateEvent.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/FacilityGame.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/StateEvent.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/event/EventRegister.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/GameState.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/event/CorePlayerListener.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/util/Registry.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/LobbyState.java" />
+      <option value="$PROJECT_DIR$/FacilityCoreHeroes/src/main/java/dev/etery/facility/games/core/FacilityCoreHeroes.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/GameCommand.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/GameWorldManage.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/GameWorldManager.java" />
+      <option value="$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/SkinTextures.java" />
+      <option value="$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NPC.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/TestCommand.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/WorldCommand.java" />
+      <option value="$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/npc/NPCV1_20_6.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/NPCCommand.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/WorldManager.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/WorldManagerImpl.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/example/ExampleGame.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/GameArgumentType.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/FacilityWorld.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/FacilityWorldConfig.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/Facility.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/FacilityCore.java" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/GameManager.java" />
+      <option value="$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NMS.java" />
+      <option value="$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/event/NPCListener.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/LobbyState.java" />
+      <option value="$PROJECT_DIR$/settings.gradle.kts" />
+      <option value="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.java-conventions.gradle.kts" />
+      <option value="$PROJECT_DIR$/buildSrc/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/FacilityCore/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/FacilityNMSV1_20_6/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/FacilityNMS/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/SkinTexturesV1_20_6.java" />
+      <option value="$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/NMSV1_20_6.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="7" lastUsage="1717530922101" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="622" lastUsage="1717531586533" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="3" lastUsage="1717530906856" />
+    </language>
+    <language id="XML">
+      <summary usageCount="24" lastUsage="1717531452146" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="19" lastUsage="1717531506740" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1717530897328" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="25" lastUsage="1717531070223" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/buildSrc/src/main/kotlin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityCore/src/main/java/dev/etery/facility/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMS/src/main/java/dev/etery/facility/nms}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/dev/Facility}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/dev/Facility/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Gradle.Facility [dependencies]" />
+      <element setting="Gradle.Facility [build]" />
+      <element setting="Maven.Facility [clean,package]" />
+      <element setting="Maven.FacilityCore package" />
+    </history>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <option name="selectedScope" value="All Places" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5007645" visible="true" weight="0.18567708" />
+      <window_info id="Commit" order="1" sideWeight="0.9105505" weight="0.18567708" />
+      <window_info id="Pull Requests" order="2" sideWeight="0.50104606" weight="0.21901041" />
+      <window_info active="true" id="Bookmarks" order="3" sideWeight="0.49923548" side_tool="true" visible="true" weight="0.18567708" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find Mixins" order="5" />
+      <window_info active="true" anchor="bottom" id="Messages" order="6" visible="true" weight="0.49305558" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.49120373" />
+      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.3300926" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.49305558" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.10494791" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300926" left="0.18567708" right="0.10494791" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26380208" />
+      <window_info id="Commit" order="1" weight="0.6464988" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find Mixins" order="5" />
+      <window_info active="true" anchor="bottom" id="Messages" order="6" visible="true" weight="0.21920529" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.15324074" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.15324074" left="0.26380208" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Gradle</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Pull Requests</value>
+      <value>Messages</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1920" height="1080" key="#Project_Structure" timestamp="1717527884463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="33" y="118" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716802056713" />
+    <state x="0" y="0" width="1920" height="1080" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717527884463" />
+    <state x="2475" y="185" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717351988642">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="185" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717351988642" />
+    <state x="2679" y="213" width="398" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1717531501086">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="213" width="398" height="630" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717531501086" />
+    <state x="2608" y="384" width="738" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1717493811906">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2608" y="384" width="738" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717493811906" />
+    <state x="0" y="0" width="1920" height="1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1717493835203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717493835203" />
+    <state x="3023" y="289" width="530" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1717450062936">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3023" y="289" width="530" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717450062936" />
+    <state x="2439" y="284" width="430" height="493" key="FileChooserDialogImpl" timestamp="1717528378178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2439" y="284" width="430" height="493" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717528378178" />
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom" timestamp="1717531616667">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="463" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716885138216" />
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717531616667" />
+    <state width="1838" height="314" key="GridCell.Tab.0.center" timestamp="1717531616667">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="463" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716885138216" />
+    <state width="1838" height="314" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717531616667" />
+    <state width="1838" height="314" key="GridCell.Tab.0.left" timestamp="1717531616666">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="463" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716885138216" />
+    <state width="1838" height="314" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717531616666" />
+    <state width="1838" height="314" key="GridCell.Tab.0.right" timestamp="1717531616667">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="463" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716885138216" />
+    <state width="1838" height="314" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717531616667" />
+    <state x="3343" y="905" width="481" height="139" key="ProcessPopupWindow" timestamp="1716801294697">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3343" y="905" width="481" height="139" key="ProcessPopupWindow/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716801294697" />
+    <state x="2384" y="160" width="992" height="735" key="SettingsEditor" timestamp="1716887268937">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="160" width="992" height="735" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716887268937" />
+    <state x="2475" y="259" width="806" height="537" key="Vcs.Push.Dialog.v2" timestamp="1717500246264">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="259" width="806" height="537" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717500246264" />
+    <state x="2586" y="413" width="584" height="230" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1717530229959">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2586" y="413" width="584" height="230" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717530229959" />
+    <state x="2613" y="231" width="530" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1717452031512">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="231" width="530" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717452031512" />
+    <state x="2669" y="442" width="417" height="171" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1717500278889">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2669" y="442" width="417" height="171" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717500278889" />
+    <state x="2884" y="147" width="813" height="790" key="dock-window-1" timestamp="1717092146555">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2884" y="147" width="813" height="790" key="dock-window-1/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717092146555" />
+    <state x="0" y="0" width="1920" height="1080" key="git4idea.branch.GitSmartOperationDialog" timestamp="1717500205652">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717500205652" />
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard" timestamp="1717527641603">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717527641603" />
+    <state x="2571" y="310" key="refactoring.ChangeSignatureDialog" timestamp="1717287134317">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="310" key="refactoring.ChangeSignatureDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717287134317" />
+    <state x="2543" y="204" width="680" height="713" key="search.everywhere.popup" timestamp="1717368768904">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="204" width="680" height="713" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1717368768904" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/mojang/brigadier/1.2.9/brigadier-1.2.9.jar!/com/mojang/brigadier/Command.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/command/GameCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/WorldManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-21.0.3+9/lib/src.zip!/java.logging/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="691" column="25" selection-start-line="691" selection-start-column="25" selection-end-line="691" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/world/FacilityWorldConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#604#634#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="ghpr://{&quot;sessionId&quot;:&quot;1717492460031&quot;,&quot;projectHash&quot;:&quot;9b1b1410&quot;,&quot;repository&quot;:{&quot;serverPath&quot;:{&quot;myHost&quot;:&quot;github.com&quot;},&quot;repositoryPath&quot;:{&quot;owner&quot;:&quot;eteryi&quot;,&quot;repository&quot;:&quot;FacilityBeta&quot;}},&quot;prId&quot;:{&quot;id&quot;:&quot;PR_kwDOMA5Qgs5xPEEz&quot;,&quot;number&quot;:1},&quot;isDiff&quot;:true}" />
+    <entry file="file://$PROJECT_DIR$/FacilityCoreHeroes/src/main/java/dev/etery/facility/games/core/FacilityCoreHeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/FacilityGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/game/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/team/FacilityTeamFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="106" selection-start-line="6" selection-start-column="106" selection-end-line="6" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/Facility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/npc/NPCConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar!/net/minecraft/network/protocol/game/ClientboundSetScorePacket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar!/net/minecraft/world/scores/Scoreboard.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar!/net/minecraft/world/scores/Objective.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+          <folding>
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar!/net/minecraft/network/protocol/game/ClientboundSetObjectivePacket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar!/net/minecraft/network/protocol/game/ClientboundSetDisplayObjectivePacket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSPaperV1_20_6/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSPaperV1_20_6/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSPaperV1_20_6/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/event/NPCListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/event/CorePlayerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/example/ExampleGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+            <element signature="e#1779#1780#0" expanded="true" />
+            <element signature="e#1816#1817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/resources/teams.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/LobbyState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.java-conventions.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/FacilityCore.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/src/main/java/dev/etery/facility/core/FacilityCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#765#802#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityCore/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/SkinTextures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMS/src/main/java/dev/etery/facility/nms/NMS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/SkinTexturesV1_20_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMS/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/papermc/paper/paper-api/1.20.6-R0.1-SNAPSHOT/paper-api-1.20.6-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Player.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/paperweight-userdev/ff775525efc29c3503a07d1006e63e5695a742b7505cf63e157d49d32419c69f/module/io.papermc.paper/dev-bundle/1.20.6-R0.1-SNAPSHOT/paperweight/ivyRepository/io/papermc/paper/paper-server/userdev-1.20.6-R0.1-SNAPSHOT/paper-server-userdev-1.20.6-R0.1-SNAPSHOT-sources.jar!/org/bukkit/craftbukkit/entity/CraftPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="194" column="62" lean-forward="true" selection-start-line="194" selection-start-column="62" selection-end-line="194" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacilityNMSV1_20_6/src/main/java/dev/etery/facility/nms/v1_20_6/NMSV1_20_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FacilityCoreHeroes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

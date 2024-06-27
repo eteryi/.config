@@ -1,0 +1,389 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="FabricClient" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="oncizh8752as">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/client/FabricClientClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="414">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/FabricClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.2.9/b81375eb6ee3fccbda1841a5620a61798655beb/brigadier-1.2.9-sources.jar!/com/mojang/brigadier/builder/LiteralArgumentBuilder.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="246">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.2.9/b81375eb6ee3fccbda1841a5620a61798655beb/brigadier-1.2.9-sources.jar!/com/mojang/brigadier/CommandDispatcher.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="336">
+              <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.27+6a6dfa19d1/fabric-command-api-v2-2.2.27+6a6dfa19d1-sources.jar!/net/fabricmc/fabric/api/client/command/v2/ClientCommandRegistrationCallback.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="204">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/player/LocalPlayer.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="72">
+              <caret line="449" column="16" selection-start-line="449" selection-start-column="16" selection-end-line="449" selection-end-column="16" />
+              <folding>
+                <element signature="e#18925#18926#0" expanded="true" />
+                <element signature="e#18991#18992#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-85">
+              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fabricclient.mixins.json">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/gui/GuiGraphics.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="221">
+              <caret line="299" column="15" selection-start-line="299" selection-start-column="15" selection-end-line="299" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.0.3+d1321076d1/fabric-rendering-v1-5.0.3+d1321076d1-sources.jar!/net/fabricmc/fabric/api/client/rendering/v1/HudRenderCallback.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 7,
+      "lastUsed": 1719333449674
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1719332877648
+    },
+    "Mixin Configuration": {
+      "usageCount": 1,
+      "lastUsed": 1719333175901
+    },
+    "CLASS": {
+      "usageCount": 4,
+      "lastUsed": 1719333142051
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/client/FabricClientClient.java" />
+      <option value="$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/FabricClient.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="7" lastUsage="1719333449674" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1719333175901" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/build}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/build}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/build/libs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/run}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/run}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/run/mods}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java/dev/etery/facility/fabricclient}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java/dev/etery/facility/fabricclient}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/java/dev/etery/facility/fabricclient/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FabricClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/FabricClient/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Minecraft Client" />
+      <element setting="Gradle.FabricClient build" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6660471" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Find Mixins" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.47218543" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.2122396" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.47218543" left="0.6660471" right="0.2122396" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1719332520990">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="229" width="398" height="630" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719332520990" />
+    <state width="1546" height="314" key="GridCell.Tab.0.bottom" timestamp="1719333592465">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333592465" />
+    <state width="1546" height="314" key="GridCell.Tab.0.center" timestamp="1719333592465">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333592465" />
+    <state width="1546" height="314" key="GridCell.Tab.0.left" timestamp="1719333592465">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333592465" />
+    <state width="1546" height="314" key="GridCell.Tab.0.right" timestamp="1719333592465">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1546" height="314" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333592465" />
+    <state x="2613" y="231" width="530" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1719333272870">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="231" width="530" height="593" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333272870" />
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard" timestamp="1719333591957">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="54" width="800" height="1026" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1719333591957" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/gui/Font.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/Minecraft.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="523" column="13" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/gui/GuiGraphics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="299" column="15" selection-start-line="299" selection-start-column="15" selection-end-line="299" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.0.3+d1321076d1/fabric-rendering-v1-5.0.3+d1321076d1-sources.jar!/net/fabricmc/fabric/api/client/rendering/v1/HudRenderCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-4eb0fe4bb6/1.21-loom.mappings.1_21.layered+hash.2198-v2/minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.2198-v2.jar!/net/minecraft/client/player/LocalPlayer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="449" column="16" selection-start-line="449" selection-start-column="16" selection-end-line="449" selection-end-column="16" />
+          <folding>
+            <element signature="e#18925#18926#0" expanded="true" />
+            <element signature="e#18991#18992#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_2198_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.27+6a6dfa19d1/fabric-command-api-v2-2.2.27+6a6dfa19d1-sources.jar!/net/fabricmc/fabric/api/client/command/v2/ClientCommandRegistrationCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.2.9/b81375eb6ee3fccbda1841a5620a61798655beb/brigadier-1.2.9-sources.jar!/com/mojang/brigadier/CommandDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.2.9/b81375eb6ee3fccbda1841a5620a61798655beb/brigadier-1.2.9-sources.jar!/com/mojang/brigadier/builder/LiteralArgumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/client/FabricClientClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/facility/fabricclient/FabricClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fabricclient.mixins.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fabric.mod.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,315 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ForgeTest" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2t3kh15jxsotu">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/forgetest/Config.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-764">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/forgetest/ForgeTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="131">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pack.mcmeta">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/mods.toml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-462" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-198" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1716140221311
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1716140329852
+    },
+    "Gradle": {
+      "usageCount": 1,
+      "lastUsed": 1716140337197
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1716140339159
+    },
+    "TOML": {
+      "usageCount": 1,
+      "lastUsed": 1716140331585
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/dev/etery/forgetest/ForgeTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="1" lastUsage="1716140337197" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1716140221311" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1716140329852" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1716140339159" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1716140331585" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/generated}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/java/dev/etery/forgetest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/main/resources/META-INF}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForgeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/etery/temp/ForgeTest/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.ForgeTest [runClient]" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.7880228" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Find Mixins" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.34652776" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25030714" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.34652776" left="0.7880228" right="0.25030714" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2363" y="118" width="1030" height="854" key="#Project_Structure" timestamp="1716140363966">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2363" y="118" width="1030" height="854" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140363966" />
+    <state x="2475" y="201" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1716140374775">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="201" width="806" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140374775" />
+    <state width="444" height="207" key="GridCell.Tab.0.bottom" timestamp="1716140417689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="444" height="207" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716140417689" />
+    <state width="1546" height="207" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140407810" />
+    <state width="444" height="207" key="GridCell.Tab.0.center" timestamp="1716140417689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="444" height="207" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716140417689" />
+    <state width="1546" height="207" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140407810" />
+    <state width="444" height="207" key="GridCell.Tab.0.left" timestamp="1716140417689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="444" height="207" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716140417689" />
+    <state width="1546" height="207" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140407807" />
+    <state width="444" height="207" key="GridCell.Tab.0.right" timestamp="1716140417689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="444" height="207" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1716140417689" />
+    <state width="1546" height="207" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140407810" />
+    <state x="2384" y="177" width="992" height="735" key="SettingsEditor" timestamp="1716140403557">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="177" width="992" height="735" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1716140403557" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pack.mcmeta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/mods.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/forgetest/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dev/etery/forgetest/ForgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|ForgeTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

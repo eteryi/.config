@@ -1,0 +1,121 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Eclipse Temurin (AdoptOpenJDK HotSpot) 17.0.11" />
+        <option name="installDir" value="/home/etery/.jdks/temurin-17.0.11" />
+        <option name="sha256" value="aa7fb6bb342319d227a838af5c363bfa1b4a670c209372f9e6585bd79da6220c" />
+        <option name="url" value="https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jdk_x64_linux_hotspot_17.0.11_9.tar.gz" />
+        <option name="versionText" value="17.0.11" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.57751936",
+    "InstalledPluginsSearchHistory": "/suggested\nauthor\nv\nvi\nvim",
+    "KEYMAP": "gd",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "MarketplacePluginsSearchHistory": "/suggested\nvim\nvi\nglsl\nemmy lua",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.gradleDslState": "KOTLIN",
+    "NewProjectWizard.groupIdState": "dev.etery.facility",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SettingsSearchHistory": "author\ngit\nplu\njdk\ngithub",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.demonwav.mcdev.creator.buildsystem.BuildSystemPropertiesStep.groupId": "dev.etery.facility",
+    "com.demonwav.mcdev.creator.platformtype.ModPlatformStep.selectedStep": "Fabric",
+    "com.demonwav.mcdev.creator.platformtype.PlatformTypeStep.selectedStep": "Mod",
+    "com.demonwav.mcdev.creator.platformtype.PluginPlatformStep.selectedStep": "Bukkit",
+    "com.demonwav.mcdev.creator.step.IssueTrackerStep.format": "https://github.com/etery/{PROJECT_NAME}/issues",
+    "com.demonwav.mcdev.creator.step.RepositoryStep.format": "https://github.com/etery/{PROJECT_NAME}",
+    "com.demonwav.mcdev.creator.step.SimpleMcVersionStep.selectedVersion": "1.21",
+    "com.demonwav.mcdev.creator.step.UseMixinsStep.useMixins": "true",
+    "com.demonwav.mcdev.platform.architectury.creator.ArchitecturyBuildSystemStep.selectedStep": "Gradle",
+    "com.demonwav.mcdev.platform.bukkit.creator.BukkitBuildSystemStep.selectedStep": "Maven",
+    "com.demonwav.mcdev.platform.bukkit.creator.BukkitLoadOrderStep.loadOrder": "POSTWORLD",
+    "com.demonwav.mcdev.platform.bukkit.creator.BukkitPlatformStep.selectedStep": "Paper",
+    "com.demonwav.mcdev.platform.fabric.creator.FabricBuildSystemStep.selectedStep": "Gradle",
+    "com.demonwav.mcdev.platform.fabric.creator.FabricEnvironmentStep.side": "NONE",
+    "com.demonwav.mcdev.platform.fabric.creator.FabricVersionChainStep.useApi": "true",
+    "com.demonwav.mcdev.platform.fabric.creator.FabricVersionChainStep.useOfficialMappings": "true",
+    "com.demonwav.mcdev.platform.forge.creator.ForgeBuildSystemStep.selectedStep": "Gradle",
+    "com.demonwav.mcdev.platform.neoforge.creator.NeoForgeBuildSystemStep.selectedStep": "Gradle",
+    "com.demonwav.mcdev.platform.sponge.creator.SpongeApiVersionStep.selectedVersion": "11.0.0-SNAPSHOT",
+    "com.demonwav.mcdev.platform.sponge.creator.SpongeBuildSystemStep.selectedStep": "Gradle",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "com.intellij.ui.dsl.builder.impl.RowImpl.latestVersion": "1.21",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.15989.150",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "5",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1719330796436",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "241.15989.150-IJ",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "jdk.selected.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": "temurin-21",
+    "kotlin.lastUpdateCheck": "1717530072793",
+    "last.imported.location": "/home/etery/dev/Facility/settings.gradle.kts",
+    "last_opened_file_path": "/home/etery/temp",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "3",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "MINECRAFT_MODULE",
+    "registry.to.advanced.settings.migration.build": "IC-241.15989.150",
+    "toolwindow.showToolWindowsNames.ts": "2024-06-04T21:09:39.245633533"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/etery/temp",
+      "/home/etery/dev/FacilityBeta",
+      "/home/etery/dev",
+      "/home/etery/dev/Facility/settings.gradle.kts",
+      "/home/etery/.m2/repository/org/spigotmc/spigot/1.20.6-R0.1-SNAPSHOT/spigot-1.20.6-R0.1-SNAPSHOT-remapped-mojang.jar",
+      "/home/etery/dev/ServerFabric/FacilityFabric",
+      "/home/etery/dev/Facility",
+      "/home/etery/temp/ForgeTest",
+      "/home/etery/temp/FabricTest",
+      "/home/etery/dev/Paper",
+      "/home/etery/dev/Paper/test-plugin",
+      "/home/etery/dev/Paper/Paper-Server"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.tang.intellij.lua.lang.LuaFileTypeDetector",
+      "com.demonwav.mcdev.nbt.filetype.NbtFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ],
+    "jdk.preference.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": [
+      "21=/usr/java/jdk-21.0.3+9",
+      "20=/home/etery/.jdks/corretto-20.0.2.1",
+      "17=/home/etery/.jdks/temurin-17.0.11"
+    ]
+  }
+}]]></component>
+</application>

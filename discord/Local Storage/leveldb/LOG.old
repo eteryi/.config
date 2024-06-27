@@ -1,0 +1,46 @@
+2024/06/25-20:16:30.082 76a6 Reusing MANIFEST /home/etery/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/25-20:16:30.083 76a6 Recovering log #2512
+2024/06/25-20:16:30.083 76a6 Reusing old log /home/etery/.config/discord/Local Storage/leveldb/002512.log 
+2024/06/25-20:36:25.853 76a8 Level-0 table #2516: started
+2024/06/25-20:36:25.879 76a8 Level-0 table #2516: 805710 bytes OK
+2024/06/25-20:36:25.883 76a8 Delete type=0 #2512
+2024/06/25-20:36:54.042 76a8 Level-0 table #2518: started
+2024/06/25-20:36:54.055 76a8 Level-0 table #2518: 45153 bytes OK
+2024/06/25-20:36:54.059 76a8 Delete type=0 #2515
+2024/06/25-20:36:54.059 76a8 Compacting 4@0 + 2@1 files
+2024/06/25-20:36:54.084 76a8 Generated table #2519@0: 36 keys, 2370272 bytes
+2024/06/25-20:36:54.113 76a8 Generated table #2520@0: 194 keys, 1651648 bytes
+2024/06/25-20:36:54.113 76a8 Compacted 4@0 + 2@1 files => 4021920 bytes
+2024/06/25-20:36:54.119 76a8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/06/25-20:36:54.119 76a8 Delete type=2 #2513
+2024/06/25-20:36:54.119 76a8 Delete type=2 #2516
+2024/06/25-20:36:54.119 76a8 Delete type=2 #2508
+2024/06/25-20:36:54.119 76a8 Delete type=2 #2518
+2024/06/25-20:36:54.119 76a8 Delete type=2 #2511
+2024/06/25-20:36:54.120 76a8 Delete type=2 #2509
+2024/06/25-20:39:31.407 76a8 Level-0 table #2522: started
+2024/06/25-20:39:31.423 76a8 Level-0 table #2522: 36822 bytes OK
+2024/06/25-20:39:31.430 76a8 Delete type=0 #2517
+2024/06/25-20:40:01.135 76a8 Level-0 table #2524: started
+2024/06/25-20:40:01.146 76a8 Level-0 table #2524: 35102 bytes OK
+2024/06/25-20:40:01.151 76a8 Delete type=0 #2521
+2024/06/25-20:45:30.891 76a8 Level-0 table #2526: started
+2024/06/25-20:45:30.902 76a8 Level-0 table #2526: 41152 bytes OK
+2024/06/25-20:45:30.905 76a8 Delete type=0 #2523
+2024/06/25-20:49:30.893 76a8 Level-0 table #2528: started
+2024/06/25-20:49:30.904 76a8 Level-0 table #2528: 38103 bytes OK
+2024/06/25-20:49:30.908 76a8 Delete type=0 #2525
+2024/06/25-20:49:30.908 76a8 Compacting 4@0 + 2@1 files
+2024/06/25-20:49:30.928 76a8 Generated table #2529@0: 36 keys, 2370275 bytes
+2024/06/25-20:49:30.957 76a8 Generated table #2530@0: 194 keys, 1652266 bytes
+2024/06/25-20:49:30.957 76a8 Compacted 4@0 + 2@1 files => 4022541 bytes
+2024/06/25-20:49:30.961 76a8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2524
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2528
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2519
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2526
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2520
+2024/06/25-20:49:30.961 76a8 Delete type=2 #2522
+2024/06/25-20:55:30.891 76a8 Level-0 table #2532: started
+2024/06/25-20:55:30.902 76a8 Level-0 table #2532: 50352 bytes OK
+2024/06/25-20:55:30.906 76a8 Delete type=0 #2527
